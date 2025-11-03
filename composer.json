@@ -6,5 +6,6 @@
             "Hidenari\\ComposerTwo\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
