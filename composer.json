@@ -7,6 +7,8 @@
             "Hidenari\\ComposerTwo\\": "src/"
         }
     },
-    "require": {},
+    "require": {
+        "php": "8.4"
+    },
     "minimum-stability": "stable"
 }
