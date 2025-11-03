@@ -1,5 +1,4 @@
 <?php
-
 namespace Hidenari\ComposerTwo;
 
 class Person
@@ -10,5 +9,4 @@ class Person
     {
         return $this->name;
     }
-
 }
