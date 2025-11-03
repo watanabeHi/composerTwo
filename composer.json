@@ -1,0 +1,10 @@
+{
+    "name": "hidenari/composer-two",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hidenari\\ComposerTwo\\": "src/"
+        }
+    },
+    "require": {}
+}
